@@ -3,8 +3,8 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import { Toaster } from "@/components/ui/toaster";
 import "@stream-io/video-react-sdk/dist/css/styles.css";
-import "./globals.css";
 import "react-datepicker/dist/react-datepicker.css";
+import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
